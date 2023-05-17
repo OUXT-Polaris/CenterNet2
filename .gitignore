@@ -56,3 +56,6 @@ _darcs
 /projects/*/datasets
 /models
 /snippet
+
+# poetry
+poetry.lock
